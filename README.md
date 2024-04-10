@@ -15,7 +15,7 @@ Projeto Scratch do curso CC50 - Harvard / Fundação Estudar: implementar qualqu
 
 Após o início da música aperte a tecla 'space' e faça a bailarina dançar.
 
-![A Valsa da Bailarina](https://scratch.mit.edu/projects/915557632/)
+[A Valsa da Bailarina](https://scratch.mit.edu/projects/915557632/)
 
 ### Cenário do Jogo:
 <br>
