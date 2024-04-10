@@ -15,13 +15,23 @@ Projeto Scratch do curso CC50 - Harvard / Fundação Estudar: implementar qualqu
 
 Após o início da música aperte a tecla 'space' e faça a bailarina dançar.
 
-Exemplo de cenário:
+####Cenário do Jogo:
+<br>
+<img width="489" alt="print do início" src="scratch_project_CC50/images/projeto.png">
 
-<img width="489" alt="print do início" src="">
-<img width="489" alt="print do código" src="">
-<img width="489" alt="print do som" src="">
-<img width="489" alt="print dos movimentos" src="">
+####Por trás do jogo:
+<br>
+<img width="489" alt="print do código" src="scratch_project_CC50/images/código.png">
 
+####Sons utilizados:
+<br>
+<img width="489" alt="print do som" src="scratch_project_CC50/images/som.png">
+
+####Movimentos:
+<br>
+<img width="489" alt="print dos movimentos" src="scratch_project_CC50/images/movimentos.png">
+
+<br>
 <p>Projetos do Scratch para inspirar:</p>
 
 <ul>
