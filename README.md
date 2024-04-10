@@ -17,19 +17,19 @@ Após o início da música aperte a tecla 'space' e faça a bailarina dançar.
 
 ####Cenário do Jogo:
 <br>
-<img width="489" alt="print do início" src="/home/hamandis/estudos/projeto_scratch/scratch_project_CC50/images/projeto.png">
+<img width="489" alt="print do início" src="images/projeto.png">
 
 ####Por trás do jogo:
 <br>
-<img width="489" alt="print do código" src="/home/hamandis/estudos/projeto_scratch/scratch_project_CC50/images/código.png">
+<img width="489" alt="print do código" src="images/código.png">
 
 ####Sons utilizados:
 <br>
-<img width="489" alt="print do som" src="/home/hamandis/estudos/projeto_scratch/scratch_project_CC50/images/som.png">
+<img width="489" alt="print do som" src="images/som.png">
 
 ####Movimentos:
 <br>
-<img width="489" alt="print dos movimentos" src="/home/hamandis/estudos/projeto_scratch/scratch_project_CC50/images/movimentos.png">
+<img width="489" alt="print dos movimentos" src="images/movimentos.png">
 
 <br>
 <p>Projetos do Scratch para inspirar:</p>
