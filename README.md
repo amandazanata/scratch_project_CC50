@@ -19,19 +19,19 @@ Após o início da música aperte a tecla 'space' e faça a bailarina dançar.
 
 ### Cenário do Jogo:
 <br>
-<img width="489" alt="print do início" src="images/projeto.png">
+<img width="512" alt="print do início" src="images/projeto.png">
 
 ### Por trás do jogo:
 <br>
-<img width="489" alt="print do código" src="images/código.png">
+<img width="512" alt="print do código" src="images/código.png">
 
 ### Sons utilizados:
 <br>
-<img width="489" alt="print do som" src="images/som.png">
+<img width="512" alt="print do som" src="images/som.png">
 
 ### Movimentos:
 <br>
-<img width="489" alt="print dos movimentos" src="images/movimentos.png">
+<img width="512" alt="print dos movimentos" src="images/movimentos.png">
 
 <br>
 <p>Projetos do Scratch para inspirar:</p>
